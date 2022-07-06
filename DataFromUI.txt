@@ -1,0 +1,1 @@
+CampaignId:788979  ProductIds:1313131313  ProgramCategory:Silver
